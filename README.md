@@ -5,6 +5,11 @@ A template for evaluating any RAG system with Ragas, starting from a CSV. You br
 
 It knows nothing about your RAG. The only contract is a CSV with four columns, so the same code evaluates a LangChain pipeline, a vector database with a prompt or a vendor product.
 
+
+## Architecture
+
+![Architecture RAG Evaluation Template](Architecture%20RAG%20Evaluation%20Template.png)
+
 ---
 
 ## Before You Run Anything
